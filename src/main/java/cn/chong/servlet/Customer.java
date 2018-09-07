@@ -11,4 +11,5 @@ import lombok.ToString;
 public class Customer {
     String name;
     int age;
+    int class;
 }
